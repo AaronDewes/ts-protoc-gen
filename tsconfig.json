@@ -5,6 +5,7 @@
     "declaration": true,
     "declarationDir": "lib",
     "target": "ES2020",
+    "module": "commonjs",
     "removeComments": true,
     "noImplicitReturns": true,
     "noImplicitAny": true,
